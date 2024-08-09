@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Luís Fernando 👋
 
-<!--
-**LuisFernandoFernandes/LuisFernandoFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I am a dedicated Software Developer with a strong focus on building innovative and efficient solutions that drive business success.
 
-Here are some ideas to get you started:
+🔧 **Technical Expertise:**
+- **Languages:** C#, JavaScript, TypeScript
+- **Frameworks:** .NET, Angular, Node.js
+- **Tools:** Visual Studio, Visual Studio Code, Git, Docker, DBeaver, and more
+- **Databases:** Relational and NoSQL databases
+- **Unit Testing:** xUnit, Moq
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Knowledge:**
+- **Domain-Driven Design (DDD):** Basic understanding of Bounded Contexts, Event Storming, and Domain Storytelling
+- **API Development with .NET:** Middleware, Dependency Injection, Authentication/Authorization, API Documentation
+- **Data Persistence:** PostgreSQL, Entity Framework, Dapper, MongoDB
+- **Entity Framework Core:** Database management, environment setup, and best practices
+- **Software Quality:** Unit Testing, and basic knowledge in TDD, BDD, Integration Testing, and Load Testing
+- **Frontend Development with Angular:** Component architecture, reactive forms, state management, and RESTful API integration
+
+🌱 **Continuous Learning:** Currently diving deeper into:
+- **DevOps & CI/CD:** GitHub Actions, Azure DevOps, Multi-stage Pipelines
+- **Serverless Architectures:** Azure Functions, API Gateway
+- **Monitoring & Access:** Zabbix, Prometheus, Grafana, APM with Datadog and New Relic
+
+📫 **How to reach me:**
+- [LinkedIn](https://www.linkedin.com/in/-lfgf/)
+
+🚀 **Featured Projects:**
+- [Project 1](https://github.com/LuisFernandoFernandes/UserManagementApi): An API for managing users and user groups
+- [Project 2](https://github.com/LuisFernandoFernandes/GitHubSearch): A single-page application (SPA) that allows users to search for repositories on GitHub
+
+💬 I'm always open to connecting and collaborating on exciting projects. Feel free to reach out!
