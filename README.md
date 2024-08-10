@@ -26,7 +26,7 @@
 - [LinkedIn](https://www.linkedin.com/in/-lfgf/)
 
 🚀 **Featured Projects:**
-- [Project 1](https://github.com/LuisFernandoFernandes/UserManagementApi): An API for managing users and user groups
-- [Project 2](https://github.com/LuisFernandoFernandes/GitHubSearch): A single-page application (SPA) that allows users to search for repositories on GitHub
+- [User Management](https://github.com/LuisFernandoFernandes/UserManagementApi): An API built with .NET Core for managing users and user groups.
+- [GitHub Search](https://github.com/LuisFernandoFernandes/GitHubSearch): A single-page application (SPA) developed in Angular that allows users to search for repositories on GitHub.
 
 💬 I'm always open to connecting and collaborating on exciting projects. Feel free to reach out!
