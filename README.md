@@ -26,6 +26,7 @@
 - [LinkedIn](https://www.linkedin.com/in/-lfgf/)
 
 🚀 **Featured Projects:**
+- [Geempe](https://github.com/LuisFernandoFernandes/Geempe): The latest project, an API built with .NET Core. It is designed to manage personal loans between individuals, using a layered architecture, GitHub Actions for CI/CD, Docker for containerization, and unit testing. The project is still in development, with features like loan requests, interest tracking, and payment management in progress.
 - [User Management](https://github.com/LuisFernandoFernandes/UserManagementApi): An API built with .NET Core for managing users and user groups.
 - [GitHub Search](https://github.com/LuisFernandoFernandes/GitHubSearch): A single-page application (SPA) developed in Angular that allows users to search for repositories on GitHub.
 
