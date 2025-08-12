@@ -1,33 +1,31 @@
 ### Hi, I'm Luís Fernando 👋
 
-💻 I am a dedicated Software Developer with a strong focus on building innovative and efficient solutions that drive business success.
+💻 I’m a Software Developer passionate about building robust, scalable, and high-quality solutions that drive real business impact. I enjoy turning complex challenges into clean, maintainable code, always aiming for best practices and continuous improvement.
 
 🔧 **Technical Expertise:**
 - **Languages:** C#, JavaScript, TypeScript
-- **Frameworks:** .NET, Angular, Node.js
+- **Frameworks & Libraries:**  .NET, Angular, Entity Framework Core, Dapper
 - **Tools:** Visual Studio, Visual Studio Code, Git, Docker, DBeaver, and more
-- **Databases:** Relational and NoSQL databases
-- **Unit Testing:** xUnit, Moq
+- **Databases:** Relational and NoSQL databases (PostgreSQL, MongoDB, Redis)
+- **Unit Testing:** xUnit, Moq, NUnit
 
 🌟 **Knowledge:**
-- **Domain-Driven Design (DDD):** Basic understanding of Bounded Contexts, Event Storming, and Domain Storytelling
-- **API Development with .NET:** Middleware, Dependency Injection, Authentication/Authorization, API Documentation
+- **Domain-Driven Design (DDD):** Understanding of Bounded Contexts, Event Storming, and Domain Storytelling
+- **API Development with .NET:** ORM mapping, query optimization, migrations, and database best practices. RESTful APIs, Middleware, Dependency Injection, Authentication/Authorization, API Documentation (Swagger)
 - **Data Persistence:** PostgreSQL, Entity Framework, Dapper, MongoDB
 - **Entity Framework Core:** Database management, environment setup, and best practices
 - **Software Quality:** Unit Testing, and basic knowledge in TDD, BDD, Integration Testing, and Load Testing
 - **Frontend Development with Angular:** Component architecture, reactive forms, state management, and RESTful API integration
+- **System Integrations:** Building reusable and scalable integration patterns
 
 🌱 **Continuous Learning:** Currently diving deeper into:
 - **DevOps & CI/CD:** GitHub Actions, Azure DevOps, Multi-stage Pipelines
 - **Serverless Architectures:** Azure Functions, API Gateway
-- **Monitoring & Access:** Zabbix, Prometheus, Grafana, APM with Datadog and New Relic
-
+- **Monitoring & Access:** Zabbix, Prometheus, Grafana
+- **Containers & Orchestration:** Docker, Kubernetes
+- **Microservices Architecture:** Design patterns, communication strategies, and scalability practices. RabbitMQ for asynchronous communication and system integration
+  
 📫 **How to reach me:**
 - [LinkedIn](https://www.linkedin.com/in/-lfgf/)
-
-🚀 **Featured Projects:**
-- [Geempe](https://github.com/LuisFernandoFernandes/Geempe): The latest project, an API built with .NET Core. It is designed to manage personal loans between individuals, using a layered architecture, GitHub Actions for CI/CD, Docker for containerization, and unit testing. The project is still in development, with features like loan requests, interest tracking, and payment management in progress.
-- [User Management](https://github.com/LuisFernandoFernandes/UserManagementApi): An API built with .NET Core for managing users and user groups.
-- [GitHub Search](https://github.com/LuisFernandoFernandes/GitHubSearch): A single-page application (SPA) developed in Angular that allows users to search for repositories on GitHub.
 
 💬 I'm always open to connecting and collaborating on exciting projects. Feel free to reach out!
